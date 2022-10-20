@@ -67,7 +67,7 @@ const config = {
         ...devices['Desktop Chrome'],
       },
     },
-/*
+
     {
       name: 'firefox',
       use: {
@@ -81,7 +81,7 @@ const config = {
         ...devices['Desktop Safari'],
       },
     },
-*/
+
     /* Test against mobile viewports. */
     // {
     //   name: 'Mobile Chrome',
