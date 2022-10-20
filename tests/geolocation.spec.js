@@ -6,7 +6,7 @@ test.use({
 
 })
 
-test.only('Test using predefined geolocation', async ( { page }) => {
+test('Test using predefined geolocation', async ( { page }) => {
 
     await page.goto('https://the-internet.herokuapp.com/');
 
